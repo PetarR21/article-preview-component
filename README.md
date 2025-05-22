@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/PetarR21/article-preview-component)
-- Live Site URL: [Add live site URL here](https://petarr21.github.io/article-preview-component/)
+- Solution URL: [https://github.com/PetarR21/article-preview-component](https://github.com/PetarR21/article-preview-component)
+- Live Site URL: [https://petarr21.github.io/article-preview-component/](https://petarr21.github.io/article-preview-component/)
 
 ## My process
 
